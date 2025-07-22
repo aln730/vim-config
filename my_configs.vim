@@ -5,7 +5,6 @@
 " === Visual Enhancements ===
 set number                " Show line numbers
 set relativenumber        " Show relative line numbers
-set cursorline            " Highlight current line
 set colorcolumn=80        " Highlight column 80
 set ruler                 " Show cursor position
 set mouse=a               " Enable mouse support
